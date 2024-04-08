@@ -1,1 +1,0 @@
-choco uninstall hwinfo cpu-z gpu-z

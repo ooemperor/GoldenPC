@@ -1,1 +1,0 @@
-choco uninstall furmark heaven-benchmark superposition-benchmark 3dmark
